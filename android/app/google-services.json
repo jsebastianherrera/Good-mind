@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025319992365",
+    "project_id": "goodmind-a126b",
+    "storage_bucket": "goodmind-a126b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025319992365:android:9a1396e6849cccc4d4cca4",
+        "android_client_info": {
+          "package_name": "com.example.good_mind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025319992365-j4i16fu8sgiabb3ddqojnm1agefpkd70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-j6CcYBRNzO-4dKueizbDbyGiOm7wnvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025319992365-j4i16fu8sgiabb3ddqojnm1agefpkd70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
